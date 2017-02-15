@@ -1,3 +1,4 @@
 data/original_data.csv
+/out
 !out/hard_to_estimate.dat
-out/
+
